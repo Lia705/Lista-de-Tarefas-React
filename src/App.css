@@ -1,0 +1,44 @@
+.App {
+  font-family: monospace;
+  color: rgb(8, 34, 119);
+  font-size: 0.45cm;
+  text-align: center;
+}
+
+.list{
+  list-style-type: none;
+  display: inline-block; 
+	text-align: left;
+  margin-left:-225px;
+}
+
+.checkbox{
+  margin-left: 55px;
+}
+
+.input{
+  margin-left: 25px;
+  margin-right:500px;
+  margin: 10px;
+  font-size: 0.4cm;
+  text-align: center;
+}
+
+.button{
+  font-family: monospace;
+  color:#250061;
+  background: #c49fff;
+  border: double #250061;
+  align-content: center;
+  margin-left: 25px;
+  padding: 5px;
+  text-align: center;
+}
+
+.excluir{
+  font-family: monospace;
+  color:#250061;
+  background: #c49fff;
+  border: single #250061;
+  margin: 5px;
+}
